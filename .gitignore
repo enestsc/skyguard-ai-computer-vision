@@ -1,0 +1,7 @@
+env/
+__pycache__/
+*.pt
+scripts/aeroplane-type-object-detection-*/
+scripts/runs/
+data/test_video.mp4
+.DS_Store
